@@ -33,4 +33,8 @@ Best-Buy-2.0/
 ├── README.md
 └── static/
 ├── index_template.html
+<<<<<<< HEAD
 └── style.css
+=======
+└── style.css
+>>>>>>> 3ea1dff (Initial commit of Best Buy 2.0 project)
