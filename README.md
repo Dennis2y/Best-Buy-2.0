@@ -1,28 +1,36 @@
-# Best Buy 2.0 🛒
+# 🛒 Best Buy 2.0 - Python Console Store + HTML Website
 
-A console-based store application that manages products, supports special product types, and applies promotions. Built with Python using Object-Oriented Programming (OOP) principles and unit testing with `pytest`.
+Welcome to **Best Buy 2.0**, a Python-based console application that simulates a product store with unit testing, inheritance-based product types, promotions, and a generated website for product display.
 
-## Features
+---
 
-- 📦 Product management (regular, limited, non-stocked)
-- 🎁 Promotions:
+## 📦 Project Features
+
+- ✅ Add, list, and purchase products from the store
+- 📁 Product Types:
+  - `Product`: Regular physical products
+  - `NonStockedProduct`: Digital products (no quantity)
+  - `LimitedProduct`: Quantity-limited purchases (e.g. shipping fee)
+- 🏷️ Promotions:
   - 30% Discount
-  - Second Item at Half Price
-  - Buy 2 Get 1 Free
-- 🧮 Inventory tracking and order placement
-- ✅ Unit testing using `pytest`
-- 🖥 Console-based interface
+  - Second item at half price
+  - Buy 2, get 1 free
+- 🧪 Unit testing using `pytest`
+- 🌐 Generates a styled static HTML website for the product catalog
 
-## Technologies
+---
 
-- Python 3.x
-- Object-Oriented Programming (OOP)
-- Unit testing with `pytest`
+## 📂 Folder Structure
 
-## How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/Best-Buy-2.0.git
-cd Best-Buy-2.0
+Best-Buy-2.0/
+├── main.py
+├── products.py
+├── promotions.py
+├── store.py
+├── test_product.py
+├── generate_website.py
+├── requirements.txt
+├── README.md
+└── static/
+├── index_template.html
+└── style.css
