@@ -37,4 +37,18 @@ Best-Buy-2.0/
 └── style.css
 =======
 └── style.css
->>>>>>> 3ea1dff (Initial commit of Best Buy 2.0 project)
+
+
+
+
+---
+
+## 🛠️ Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/Best-Buy-2.0.git
+cd Best-Buy-2.0
+
+
+
