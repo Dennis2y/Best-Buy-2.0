@@ -2,8 +2,6 @@
 
 Welcome to **Best Buy 2.0**, a Python-based console application that simulates a product store with unit testing, inheritance-based product types, promotions, and a generated website for product display.
 
----
-
 ## 📦 Project Features
 
 - ✅ Add, list, and purchase products from the store
@@ -18,7 +16,6 @@ Welcome to **Best Buy 2.0**, a Python-based console application that simulates a
 - 🧪 Unit testing using `pytest`
 - 🌐 Generates a styled static HTML website for the product catalog
 
----
 
 ## 📂 Folder Structure
 
@@ -38,10 +35,6 @@ Best-Buy-2.0/
 =======
 └── style.css
 
-
-
-
----
 
 ## 🛠️ Installation
 
