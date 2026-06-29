@@ -16,9 +16,7 @@ Welcome to **Best Buy 2.0**, a Python-based console application that simulates a
 - 🧪 Unit testing using `pytest`
 - 🌐 Generates a styled static HTML website for the product catalog
 
-
 ## 📂 Folder Structure
-
 Best-Buy-2.0/
 ├── main.py
 ├── products.py
@@ -34,7 +32,6 @@ Best-Buy-2.0/
 └── style.css
 =======
 └── style.css
-
 
 ## 🛠️ Installation
 
